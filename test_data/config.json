@@ -1,0 +1,12 @@
+{
+  "site": {
+    "url": "http://localhost:3000"
+  },
+  "owner": {
+    "user_name": "test"
+  },
+  "pet": {
+    "petname": "Vasia"
+  }
+
+}
